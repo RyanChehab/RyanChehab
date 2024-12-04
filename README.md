@@ -1,4 +1,6 @@
-![Masthead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Masthead" height="200">
+</p>
 <h1 align="center">Hi 👋, I'm Ryan Chehab</h1>
 <h3 align="center">A Junior Full-Stack Developer from Lebanon</h3>
 <img align="right" alt="react" width="350" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif">
