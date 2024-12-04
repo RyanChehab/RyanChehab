@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Chehab</h1>
 <h3 align="center">A Junior Full-Stack Developer from Lebanon</h3>
-
+<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 - 📫 How to reach me **ryanchehab20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
