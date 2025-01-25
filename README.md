@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Chehab</h1>
 <h3 align="center">A Full-Stack Developer from Lebanon</h3>
 <img align="right" alt="react" width="350" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif">
-- 📫 How to reach me **ryanchehab20@gmail.com**
+- 📫 How to reach me ** ryanchehab20@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
